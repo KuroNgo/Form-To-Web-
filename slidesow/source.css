@@ -1,0 +1,15 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Lucida Console", Courier, monospace;
+}
+body
+{
+    min-height: 150vh;
+}
+.slideshow
+{
+    background: url(/diện\ sp.jpg);
+
